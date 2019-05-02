@@ -1,0 +1,57 @@
+Report for Institution Code KWS, Resource birds_nk
+Usage stats for March 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 22
+Number of records retrieved in searches: 934
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Denmark ; Times: 11
+	Country: Argentina ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-19 ; Times: 1
+	Date: 2019-03-30 ; Times: 4
+	Date: 2019-03-26 ; Times: 8
+	Date: 2019-03-25 ; Times: 1
+	Date: 2019-03-22 ; Times: 3
+	Date: 2019-03-20 ; Times: 1
+	Date: 2019-03-29 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Circaetus pectoralis year &gt; 1990 NOT clo" ; Times: 1
+	Query: "apaloderma vittatum" ; Times: 1
+	Query: "genus:Cursorius order:Charadriiformes class:Aves" ; Times: 1
+	Query: "Apaloderma vittatum year &gt;1990" ; Times: 1
+	Query: "PHOENICONAIAS MINOR" ; Times: 2
+	Query: "LESSER FLAMINGO" ; Times: 2
+	Query: "Psittacus erithacus mappable:1" ; Times: 1
+	Query: "Halcyon senegalensis year &gt; 1990 NOT clo" ; Times: 1
+	Query: "sheppardia polioptera" ; Times: 2
+	Query: "Poicephalus" ; Times: 1
+	Query: "apaloderma vittatum year &gt; 1990" ; Times: 2
+	Query: "anhinga anhinga year &gt; 1990 NOT clo" ; Times: 1
+	Query: "cossypha polioptera" ; Times: 1
+	Query: "gbifdatasetid:d1e8a7af-097a-4ca8-aa91-62d3ff834711" ; Times: 1
+	Query: "Halcyon senegaloides year &gt; 1990 NOT clo" ; Times: 1
+	Query: "Egretta garzetta year &gt; 1990 NOT clo" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 1281 download events in this period)
+Total number of records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+
+End of report.
