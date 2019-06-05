@@ -1,0 +1,103 @@
+Report for Institution Code KWS, Resource birds_nk
+Usage stats for May 2019, generated on 2019/06/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 52
+Number of records retrieved in searches: 1387
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: Turkey ; Times: 1
+	Country: Denmark ; Times: 7
+	Country: India ; Times: 2
+	Country: United Kingdom ; Times: 6
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Chile ; Times: 5
+	Country: Argentina ; Times: 1
+	Country: United States ; Times: 20
+	Country: Malawi ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-24 ; Times: 5
+	Date: 2019-05-27 ; Times: 4
+	Date: 2019-05-26 ; Times: 2
+	Date: 2019-05-21 ; Times: 8
+	Date: 2019-05-23 ; Times: 2
+	Date: 2019-05-22 ; Times: 5
+	Date: 2019-05-02 ; Times: 7
+	Date: 2019-05-07 ; Times: 1
+	Date: 2019-05-09 ; Times: 6
+	Date: 2019-05-06 ; Times: 3
+	Date: 2019-05-10 ; Times: 1
+	Date: 2019-05-11 ; Times: 2
+	Date: 2019-05-03 ; Times: 1
+	Date: 2019-05-15 ; Times: 2
+	Date: 2019-05-16 ; Times: 2
+	Date: 2019-05-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Thalasseus sandvicensis mappable:1 year&gt;=1988 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "Pluvialis squatarola mappable:1 year&gt;=1988 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "Zanzibar aves" ; Times: 2
+	Query: "genus:Sarkidiornis" ; Times: 1
+	Query: "order:aves" ; Times: 2
+	Query: "Nannococcyx psix" ; Times: 2
+	Query: "Cisticola juncidis year &gt; 1990 NOT CLO" ; Times: 2
+	Query: "Philetairus socius" ; Times: 1
+	Query: "fulvous whistling duck" ; Times: 2
+	Query: "specificepithet:rufocinereus genus:monticola" ; Times: 1
+	Query: "order:P" ; Times: 1
+	Query: "Numida meleagris year &gt; 1990 NOT CLO" ; Times: 1
+	Query: "specificepithet:lugens genus:sylvia" ; Times: 1
+	Query: "Chelictinia riocourii" ; Times: 1
+	Query: "Macheiramphus alcinus" ; Times: 1
+	Query: "collared dove" ; Times: 1
+	Query: "Colius striatus year &gt; 1990 NOT CLO" ; Times: 1
+	Query: "specificepithet:communis genus:Sylvia" ; Times: 1
+	Query: "Gallinula chloropus mappable:1 year&gt;=1988 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "Sarothrura affinis" ; Times: 1
+	Query: "Micronisus" ; Times: 1
+	Query: "Acrocephalus palustris" ; Times: 5
+	Query: "pied wagtail" ; Times: 1
+	Query: "specificepithet:griseus genus:Passer" ; Times: 3
+	Query: "Acrocephalus arundinaceus year &gt; 1985 NOT CLO" ; Times: 1
+	Query: "Gorsachius leuconotus" ; Times: 1
+	Query: "apalis flavigularis" ; Times: 3
+	Query: "ovampensis" ; Times: 1
+	Query: "Apalis flavigularis" ; Times: 1
+	Query: "Schoutedenapus" ; Times: 1
+	Query: "specificepithet:molitor genus:batis" ; Times: 3
+	Query: "Dendrocygna bicolor mappable:1 year&gt;=1988 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "Rhinoptilus africanus year &gt; 1990 NOT clo" ; Times: 1
+	Query: "specificepithet:suahelicus genus:Passer" ; Times: 2
+	Query: "Thalassarche melanophris mappable:1 year&gt;=1988 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "Circaetus pectoralis year &gt; 1985" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 940 download events in this period)
+Total number of records downloaded: 836
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Malawi ; Times: 3
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-11 ; Times: 2
+	Date: 2019-05-22 ; Times: 3
+	Date: 2019-05-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:apalis" ; Times: 1
+	Query: "apalis flavigularis" ; Times: 2
+	Query: "phalacrocorax carbo" ; Times: 1
+	Query: "specificepithet:lugens genus:sylvia" ; Times: 1
+	Query: "specificepithet:rufocinereus genus:monticola" ; Times: 1
+
+
+End of report.
