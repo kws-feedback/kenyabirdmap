@@ -1,0 +1,137 @@
+Report for Institution Code KWS, Resource birds_nk
+Usage stats for June 2019, generated on 2019/07/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 83
+Number of records retrieved in searches: 6013
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: South Africa ; Times: 2
+	Country: Unknown ; Times: 2
+	Country: India ; Times: 2
+	Country: Costa Rica ; Times: 1
+	Country: France ; Times: 3
+	Country: United States ; Times: 64
+	Country: Germany ; Times: 2
+	Country: Chile ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-20 ; Times: 3
+	Date: 2019-06-21 ; Times: 3
+	Date: 2019-06-19 ; Times: 1
+	Date: 2019-06-18 ; Times: 10
+	Date: 2019-06-06 ; Times: 1
+	Date: 2019-06-07 ; Times: 1
+	Date: 2019-06-04 ; Times: 1
+	Date: 2019-06-05 ; Times: 2
+	Date: 2019-06-11 ; Times: 50
+	Date: 2019-06-03 ; Times: 1
+	Date: 2019-06-13 ; Times: 3
+	Date: 2019-06-01 ; Times: 4
+	Date: 2019-06-29 ; Times: 1
+	Date: 2019-06-10 ; Times: 1
+	Date: 2019-06-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Ciconia specificepithet:nigra" ; Times: 1
+	Query: "Schoutedenapus myoptilus" ; Times: 1
+	Query: "genus:Sterna specificepithet:dougallii" ; Times: 1
+	Query: "genus:Trochocercus specificepithet:nitens" ; Times: 1
+	Query: "ACCIPITER BADIUS" ; Times: 2
+	Query: "genus:Cuculus specificepithet:canorus" ; Times: 1
+	Query: "genus:Apus specificepithet:apus" ; Times: 1
+	Query: "red-winged black bird" ; Times: 2
+	Query: "genus:Hylia specificepithet:prasina" ; Times: 1
+	Query: "genus:Euplectes specificepithet:hordeaceus" ; Times: 1
+	Query: "genus:Buphagus specificepithet:erythrorhynchus" ; Times: 1
+	Query: "genus:Sagittarius specificepithet:serpentarius" ; Times: 1
+	Query: "2157 fish" ; Times: 1
+	Query: "genus:Charadrius specificepithet:hiaticula" ; Times: 1
+	Query: "Ptilopsis leucotis" ; Times: 1
+	Query: "genus:Psittacus specificepithet:erithacus" ; Times: 1
+	Query: "specificepithet:pavonina genus:balearica" ; Times: 1
+	Query: "genus:Dendropicos specificepithet:goertae" ; Times: 1
+	Query: "genus:Agapornis specificepithet:fischeri" ; Times: 1
+	Query: "genus:Lonchura specificepithet:cucullata" ; Times: 1
+	Query: "genus:Poicephalus specificepithet:meyeri" ; Times: 1
+	Query: "genus:Merops specificepithet:pusillus" ; Times: 1
+	Query: "genus:Apaloderma specificepithet:vittatum" ; Times: 1
+	Query: "genus:Burhinus specificepithet:senegalensis" ; Times: 1
+	Query: "Gallinula chloropus mappable:1 year&gt;=1950 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "purple roller" ; Times: 1
+	Query: "genus:Gelochelidon specificepithet:nilotica" ; Times: 1
+	Query: "genus:Ardea specificepithet:cinerea" ; Times: 1
+	Query: "Butorides striata" ; Times: 1
+	Query: "Dendrocygna bicolor mappable:1 year&gt;=1950 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "Coracias naevius" ; Times: 1
+	Query: "Muscicapidae 1894" ; Times: 1
+	Query: "genus:Pterocles specificepithet:quadricinctus" ; Times: 1
+	Query: "genus:Colius specificepithet:striatus" ; Times: 1
+	Query: "genus:Limosa specificepithet:lapponica" ; Times: 1
+	Query: "genus:Sarothrura specificepithet:pulchra" ; Times: 1
+	Query: "genus:Parmoptila specificepithet:woodhousei" ; Times: 1
+	Query: "genus:Estrilda specificepithet:astrild" ; Times: 1
+	Query: "genus:Psalidoprocne specificepithet:pristoptera" ; Times: 1
+	Query: "genus:Hydroprogne specificepithet:caspia" ; Times: 1
+	Query: "Thalasseus sandvicensis mappable:1 year&gt;=1950 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "genus:Falco specificepithet:subbuteo" ; Times: 2
+	Query: "tchagra tchagra" ; Times: 3
+	Query: "psalidoprocne" ; Times: 2
+	Query: "genus:Coracias specificepithet:garrulus" ; Times: 1
+	Query: "spotted owl" ; Times: 1
+	Query: "crested eagle" ; Times: 1
+	Query: "genus:Ciconia specificepithet:ciconia" ; Times: 1
+	Query: "genus:Falco specificepithet:tinnunculus" ; Times: 1
+	Query: "genus:Apus specificepithet:affinis" ; Times: 1
+	Query: "genus:Emberiza specificepithet:cabanisi" ; Times: 1
+	Query: "genus:Lanius specificepithet:excubitor" ; Times: 1
+	Query: "genus:Sula specificepithet:dactylatra" ; Times: 1
+	Query: "Thalassarche melanophris mappable:1 year&gt;=1950 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "genus:Ardea specificepithet:alba" ; Times: 1
+	Query: "genus:Phalacrocorax specificepithet:carbo" ; Times: 1
+	Query: "genus:Buteo specificepithet:buteo" ; Times: 1
+	Query: "genus:Aythya specificepithet:fuligula" ; Times: 1
+	Query: "genus:Struthio specificepithet:camelus" ; Times: 1
+	Query: "geokichla gurneyi" ; Times: 1
+	Query: "genus:Anous specificepithet:stolidus" ; Times: 1
+	Query: "genus:Caprimulgus specificepithet:europaeus" ; Times: 1
+	Query: "genus:Coturnix specificepithet:coturnix" ; Times: 1
+	Query: "Spotted Owl" ; Times: 1
+	Query: "genus:Halcyon specificepithet:leucocephala" ; Times: 1
+	Query: "hieraaetus ayresii" ; Times: 2
+	Query: "genus:Cisticola specificepithet:chubbi" ; Times: 1
+	Query: "Pluvialis squatarola mappable:1 year&gt;=1950 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "Fishing Owl" ; Times: 2
+	Query: "genus:Psittacula specificepithet:krameri" ; Times: 1
+	Query: "genus:Podiceps specificepithet:cristatus" ; Times: 1
+	Query: "genus:Actitis specificepithet:hypoleucos" ; Times: 1
+	Query: "Bubulcus ibis" ; Times: 1
+	Query: "genus:Luscinia specificepithet:megarhynchos" ; Times: 1
+	Query: "ayresii" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 1182 download events in this period)
+Total number of records downloaded: 59
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-06 ; Times: 1
+	Date: 2019-06-07 ; Times: 1
+	Date: 2019-06-04 ; Times: 1
+	Date: 2019-06-03 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "spotted owl" ; Times: 1
+	Query: "specificepithet:pavonina genus:balearica" ; Times: 4
+	Query: "barn owl" ; Times: 1
+	Query: "Barn Owl" ; Times: 1
+
+
+End of report.
