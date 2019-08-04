@@ -1,0 +1,114 @@
+Report for Institution Code KWS, Resource birds_nk
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 86
+Number of records retrieved in searches: 2181
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 3
+	Country: Gambia ; Times: 5
+	Country: India ; Times: 11
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 6
+	Country: Sweden ; Times: 12
+	Country: Germany ; Times: 2
+	Country: Kenya ; Times: 4
+	Country: United States ; Times: 40
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 2
+	Date: 2019-07-08 ; Times: 13
+	Date: 2019-07-11 ; Times: 5
+	Date: 2019-07-27 ; Times: 3
+	Date: 2019-07-26 ; Times: 1
+	Date: 2019-07-22 ; Times: 1
+	Date: 2019-07-31 ; Times: 3
+	Date: 2019-07-05 ; Times: 8
+	Date: 2019-07-10 ; Times: 1
+	Date: 2019-07-28 ; Times: 3
+	Date: 2019-07-30 ; Times: 7
+	Date: 2019-07-17 ; Times: 1
+	Date: 2019-07-07 ; Times: 3
+	Date: 2019-07-04 ; Times: 1
+	Date: 2019-07-19 ; Times: 6
+	Date: 2019-07-14 ; Times: 1
+	Date: 2019-07-15 ; Times: 14
+	Date: 2019-07-06 ; Times: 4
+	Date: 2019-07-24 ; Times: 4
+	Date: 2019-07-29 ; Times: 3
+	Date: 2019-07-02 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:scotops genus:eremomela" ; Times: 3
+	Query: "Agapornis pullarius" ; Times: 1
+	Query: "Scepomycter winifredae" ; Times: 4
+	Query: "glaucidium capense" ; Times: 3
+	Query: "Agapornis personatus mappable:1" ; Times: 1
+	Query: "Necrosyrtes monachus" ; Times: 2
+	Query: "genus:Columba specificepithet:livia" ; Times: 1
+	Query: "fregetta year &gt;= 1980 year &lt;= 2019" ; Times: 2
+	Query: "specificepithet:soror genus:batis" ; Times: 2
+	Query: "Histurgops ruficauda" ; Times: 3
+	Query: "hooded vulture" ; Times: 6
+	Query: "specificepithet:fischeri genus:Agapornis" ; Times: 1
+	Query: "class:aves institutioncode:KWS" ; Times: 1
+	Query: "Myrmecocichla arnotti" ; Times: 1
+	Query: "genus:Tauraco specificepithet:fischeri" ; Times: 1
+	Query: "specificepithet:borin genus:Sylvia year&gt;1980 year&lt;2020" ; Times: 3
+	Query: "specificepithet:communis genus:Sylvia year&gt;1980 year&lt;2020" ; Times: 3
+	Query: "genus:Luscinia specificepithet:luscinia" ; Times: 1
+	Query: "genus:Anthus specificepithet:trivialis" ; Times: 1
+	Query: "Tmetothylacus tenellus" ; Times: 2
+	Query: "fregetta year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "Tchagra australis" ; Times: 3
+	Query: "specificepithet:communis genus:Sylvia" ; Times: 2
+	Query: "specificepithet:communis genus:Sylvia year&gt;1980 year&lt;=2019" ; Times: 1
+	Query: "genus:Empidornis specificepithet:semipartitus" ; Times: 1
+	Query: "Euodice cantans" ; Times: 3
+	Query: "gbifdatasetid:d1e8a7af-097a-4ca8-aa91-62d3ff834711" ; Times: 1
+	Query: "genus:Nilaus specificepithet:afer" ; Times: 1
+	Query: "genus:Falco specificepithet:subbuteo" ; Times: 1
+	Query: "eremomela scotops" ; Times: 3
+	Query: "genus:Falco specificepithet:tinnunculus" ; Times: 1
+	Query: "Phyllolais pulchella" ; Times: 1
+	Query: "genus:Xenoligea specificepithet:montana" ; Times: 1
+	Query: "genus:Illadopsis specificepithet:fulvescens" ; Times: 1
+	Query: "Empidornis semipartitus" ; Times: 1
+	Query: "genus:Buteo specificepithet:buteo" ; Times: 1
+	Query: "upupa epops" ; Times: 11
+	Query: "genus:Egretta specificepithet:thula" ; Times: 1
+	Query: "Agapornis fischeri mappable:1" ; Times: 1
+	Query: "adsimilis" ; Times: 1
+	Query: "Agapornis swindernianus" ; Times: 1
+	Query: "specificepithet:orientalis genus:batis" ; Times: 1
+	Query: "specificepithet:arundinaceus genus:Acrocephalus year&gt;1980 year&lt;2020" ; Times: 3
+	Query: "Drepanorhynchus reichenowi" ; Times: 1
+	Query: "genus:Sporopipes specificepithet:squamifrons" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 985 download events in this period)
+Total number of records downloaded: 214
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Unknown ; Times: 1
+	Country: Sweden ; Times: 1
+	Country: India ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-12 ; Times: 1
+	Date: 2019-07-19 ; Times: 1
+	Date: 2019-07-04 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "elanus caeruleus" ; Times: 1
+	Query: "upupa epops" ; Times: 1
+	Query: "specificepithet:communis genus:Sylvia" ; Times: 1
+
+
+End of report.
