@@ -1,0 +1,199 @@
+Report for Institution Code KWS, Resource birds_nk
+Usage stats for August 2019, generated on 2019/09/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 186
+Number of records retrieved in searches: 7538
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 8
+	Country: United Kingdom ; Times: 24
+	Country: Netherlands ; Times: 4
+	Country: Mexico ; Times: 1
+	Country: Denmark ; Times: 20
+	Country: United States ; Times: 50
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 20
+	Country: Peru ; Times: 45
+	Country: Kenya ; Times: 9
+	Country: Brazil ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-27 ; Times: 2
+	Date: 2019-08-28 ; Times: 5
+	Date: 2019-08-29 ; Times: 1
+	Date: 2019-08-01 ; Times: 4
+	Date: 2019-08-02 ; Times: 1
+	Date: 2019-08-03 ; Times: 1
+	Date: 2019-08-05 ; Times: 19
+	Date: 2019-08-06 ; Times: 3
+	Date: 2019-08-07 ; Times: 4
+	Date: 2019-08-08 ; Times: 15
+	Date: 2019-08-09 ; Times: 1
+	Date: 2019-08-25 ; Times: 1
+	Date: 2019-08-22 ; Times: 6
+	Date: 2019-08-23 ; Times: 4
+	Date: 2019-08-20 ; Times: 18
+	Date: 2019-08-17 ; Times: 4
+	Date: 2019-08-16 ; Times: 9
+	Date: 2019-08-15 ; Times: 16
+	Date: 2019-08-14 ; Times: 50
+	Date: 2019-08-13 ; Times: 7
+	Date: 2019-08-12 ; Times: 3
+	Date: 2019-08-11 ; Times: 2
+	Date: 2019-08-10 ; Times: 1
+	Date: 2019-08-30 ; Times: 1
+	Date: 2019-08-19 ; Times: 1
+	Date: 2019-08-18 ; Times: 1
+	Date: 2019-08-26 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Ardea cinerea" ; Times: 1
+	Query: "Bubulcus ibis" ; Times: 1
+	Query: "Ardeola ralloides" ; Times: 1
+	Query: "Platalea leucorodia" ; Times: 1
+	Query: "Necrosyrtes monachus" ; Times: 1
+	Query: "Jacana jacana" ; Times: 1
+	Query: "Merops orientalis orientalis" ; Times: 1
+	Query: "specificepithet:abbotti genus:Papasula" ; Times: 2
+	Query: "Cypsiurus parvus" ; Times: 1
+	Query: "specificepithet:melanoleucus genus:Accipiter AND (NOT cooperii NOT striatus)" ; Times: 2
+	Query: "Xenus cinereus" ; Times: 1
+	Query: "Tringa nebularia" ; Times: 1
+	Query: "Onychoprion fuscatus" ; Times: 1
+	Query: "Psittacula krameri" ; Times: 1
+	Query: "Rhinoptilus chalcopterus" ; Times: 1
+	Query: "Leptotila verreauxi" ; Times: 1
+	Query: "Tachymarptis aequatorialis" ; Times: 1
+	Query: "eremomela scotops" ; Times: 8
+	Query: "Larus fuscus" ; Times: 1
+	Query: "lonchura cantans" ; Times: 5
+	Query: "Phoenicopterus roseus" ; Times: 1
+	Query: "Speculipastor bicolor" ; Times: 3
+	Query: "oenanthe pleschanka" ; Times: 2
+	Query: "Mareca penelope" ; Times: 1
+	Query: "Saxicola rubicola" ; Times: 2
+	Query: "euodice cantans" ; Times: 2
+	Query: "Tringa glareola" ; Times: 1
+	Query: "Motacilla cinerea" ; Times: 1
+	Query: "Agapornis swindernianus" ; Times: 2
+	Query: "Turtur tympanistria" ; Times: 1
+	Query: "Chlidonias hybrida" ; Times: 1
+	Query: "Pogoniulus bilineatus" ; Times: 1
+	Query: "peliperdix" ; Times: 1
+	Query: "Chlidonias leucopterus" ; Times: 1
+	Query: "Anhinga rufa" ; Times: 1
+	Query: "Spatula clypeata" ; Times: 1
+	Query: "specificepithet:nipalensis genus:Aquila" ; Times: 2
+	Query: "Plegadis falcinellus" ; Times: 1
+	Query: "fregetta" ; Times: 1
+	Query: "Buteogallus urubitinga" ; Times: 5
+	Query: "Tockus erythrorhynchus" ; Times: 1
+	Query: "Dryoscopus pringlii" ; Times: 1
+	Query: "Cercococcyx montanus" ; Times: 1
+	Query: "specificepithet:erithacus genus:Psittacus" ; Times: 2
+	Query: "Pluvianus aegyptius" ; Times: 1
+	Query: "Sterna dougallii" ; Times: 1
+	Query: "Struthio molybdophanes" ; Times: 2
+	Query: "Sarkidiornis melanotos" ; Times: 1
+	Query: "Butorides striata" ; Times: 1
+	Query: "specificepithet:badius genus:Accipiter year &gt;= 1970" ; Times: 1
+	Query: "Phyllolais pulchella" ; Times: 1
+	Query: "Crex crex" ; Times: 1
+	Query: "Charadrius mongolus" ; Times: 1
+	Query: "Chroicocephalus cirrocephalus" ; Times: 1
+	Query: "Merops apiaster" ; Times: 3
+	Query: "Gelochelidon nilotica" ; Times: 1
+	Query: "genus:eupodotis" ; Times: 4
+	Query: "Anthus richardi" ; Times: 1
+	Query: "Ciconia ciconia" ; Times: 1
+	Query: "Ardea purpurea" ; Times: 1
+	Query: "Motacilla alba" ; Times: 1
+	Query: "Dendrocygna viduata" ; Times: 1
+	Query: "glaucidium capense" ; Times: 1
+	Query: "Mesembrinibis cayennensis" ; Times: 1
+	Query: "óenanthe pleschanka" ; Times: 1
+	Query: "Calidris ferruginea" ; Times: 1
+	Query: "Thalassarche chrysostoma" ; Times: 1
+	Query: "Chamaeza campanisona" ; Times: 1
+	Query: "myrmecocichla aethiops" ; Times: 2
+	Query: "Tauraco hartlaubi" ; Times: 3
+	Query: "Anthus cervinus" ; Times: 1
+	Query: "Oenanthe pleschanka" ; Times: 4
+	Query: "institutioncode:kws Poicephalus cryptoxanthus" ; Times: 1
+	Query: "Gallinula angulata" ; Times: 1
+	Query: "Papasula abbotti" ; Times: 3
+	Query: "specificepithet:sokokensis genus:Anthus" ; Times: 2
+	Query: "Sula dactylatra" ; Times: 1
+	Query: "Clanga pomarina" ; Times: 1
+	Query: "Chroicocephalus ridibundus" ; Times: 1
+	Query: "Thalasseus sandvicensis" ; Times: 1
+	Query: "Thalassarche melanophris" ; Times: 1
+	Query: "Netta erythrophthalma" ; Times: 1
+	Query: "Threskiornis aethiopicus" ; Times: 1
+	Query: "Buteo rufinus" ; Times: 1
+	Query: "Numida meleagris" ; Times: 3
+	Query: "Oena capensis" ; Times: 1
+	Query: "Eupodotis senegalensis" ; Times: 2
+	Query: "Dicrurus ludwigii" ; Times: 2
+	Query: "cercomela scotocerca" ; Times: 6
+	Query: "Estrilda astrild" ; Times: 1
+	Query: "Fregetta tropica" ; Times: 1
+	Query: "Ploceus cucullatus" ; Times: 1
+	Query: "Scotopelia peli" ; Times: 1
+	Query: "Nannococcyx psix" ; Times: 2
+	Query: "specificepithet:guttata genus:Geokichla" ; Times: 4
+	Query: "Buteo augur" ; Times: 1
+	Query: "Parophasma galinieri" ; Times: 6
+	Query: "specificepithet:galinieri genus:Parophasma year&gt;1980 year&lt;2020" ; Times: 1
+	Query: "Calidris pugnax" ; Times: 1
+	Query: "specificepithet:orientalis orientalis genus:Merops" ; Times: 1
+	Query: "Apus apus" ; Times: 1
+	Query: "Ardeotis kori" ; Times: 2
+	Query: "Egretta garzetta" ; Times: 1
+	Query: "Macronyx sharpei" ; Times: 1
+	Query: "Sarothrura affinis" ; Times: 2
+	Query: "Euodice cantans" ; Times: 1
+	Query: "Amblyospiza albifrons" ; Times: 1
+	Query: "specificepithet:monachus genus:Necrosyrtes" ; Times: 2
+	Query: "sarothrura" ; Times: 1
+	Query: "Merops+apiaster" ; Times: 1
+	Query: "specificepithet:percnopterus genus:Neophron" ; Times: 2
+	Query: "Merops orientalis" ; Times: 1
+	Query: "Cercomela scotocerca" ; Times: 1
+	Query: "Glaucidium capense" ; Times: 1
+	Query: "Egretta gularis" ; Times: 1
+	Query: "taita apalis" ; Times: 2
+	Query: "specificepithet:leucocephala genus:Oxyura" ; Times: 2
+	Query: "Dendrocygna bicolor" ; Times: 1
+	Query: "holochlorus" ; Times: 1
+	Query: "specificepithet:chrysostoma genus:Thalassarche" ; Times: 2
+	Query: "Phoenicoparrus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 1034 download events in this period)
+Total number of records downloaded: 694
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 2
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-13 ; Times: 1
+	Date: 2019-08-14 ; Times: 1
+	Date: 2019-08-22 ; Times: 1
+	Date: 2019-08-10 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "saxicola rubicola" ; Times: 1
+	Query: "Glaucidium capense" ; Times: 1
+	Query: "(passer domesticus) year &gt;= 2000 year &lt;= 2019" ; Times: 1
+	Query: "oenanthe pleschanka" ; Times: 1
+
+
+End of report.
