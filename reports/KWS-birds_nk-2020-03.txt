@@ -1,0 +1,95 @@
+Report for Institution Code KWS, Resource birds_nk
+Usage stats for March 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 62
+Number of records retrieved in searches: 2917
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 38
+	Country: Mexico ; Times: 3
+	Country: Denmark ; Times: 2
+	Country: India ; Times: 2
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 8
+	Country: Unknown ; Times: 2
+	Country: Thailand ; Times: 2
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-11 ; Times: 2
+	Date: 2020-03-06 ; Times: 4
+	Date: 2020-03-10 ; Times: 6
+	Date: 2020-03-19 ; Times: 4
+	Date: 2020-03-30 ; Times: 5
+	Date: 2020-03-26 ; Times: 2
+	Date: 2020-03-25 ; Times: 2
+	Date: 2020-03-23 ; Times: 1
+	Date: 2020-03-03 ; Times: 19
+	Date: 2020-03-18 ; Times: 1
+	Date: 2020-03-20 ; Times: 1
+	Date: 2020-03-04 ; Times: 5
+	Date: 2020-03-14 ; Times: 1
+	Date: 2020-03-02 ; Times: 3
+	Date: 2020-03-13 ; Times: 3
+	Date: 2020-03-29 ; Times: 2
+	Date: 2020-03-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Dicrurus ludwigii" ; Times: 2
+	Query: "roseate tern" ; Times: 1
+	Query: "Pluvianus aegyptius year &gt; 1990" ; Times: 1
+	Query: "house crow" ; Times: 1
+	Query: "dicrurus modestus" ; Times: 1
+	Query: "anteater" ; Times: 1
+	Query: "African firefinch" ; Times: 3
+	Query: "fulvous whistling duck" ; Times: 1
+	Query: "specificepithet:modestus genus:dicrurus" ; Times: 1
+	Query: "Pluvianus aegyptius" ; Times: 1
+	Query: "turdus pelios" ; Times: 1
+	Query: "genus:buphagus year &gt;= 2000 year &lt;= 2020" ; Times: 1
+	Query: "CIRCUS AERUGINOSUS" ; Times: 2
+	Query: "lilac-breasted roller" ; Times: 1
+	Query: "estrilda nigriloris" ; Times: 1
+	Query: "Cossypha niveicapilla" ; Times: 6
+	Query: "Spotted Owl" ; Times: 1
+	Query: "specificepithet:senegalensis genus:Otus" ; Times: 1
+	Query: "Cossypha niveicapilla mappable:1" ; Times: 10
+	Query: "mycteria ibis" ; Times: 2
+	Query: "acrocephalus arundinaceus" ; Times: 6
+	Query: "Cossypha semirufa mappable:1" ; Times: 2
+	Query: "helmeted guineafowl" ; Times: 3
+	Query: "Cossypha semirufa" ; Times: 2
+	Query: "Cuculus canorus" ; Times: 2
+	Query: "specificepithet:arnotti" ; Times: 1
+	Query: "Spatula clypeata" ; Times: 1
+	Query: "egretta gularis" ; Times: 1
+	Query: "Delichon urbicum" ; Times: 1
+	Query: "puffinus kenya" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 853 download events in this period)
+Total number of records downloaded: 364
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: India ; Times: 1
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-30 ; Times: 1
+	Date: 2020-03-23 ; Times: 1
+	Date: 2020-03-11 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "house crow" ; Times: 1
+	Query: "specificepithet:arnotti" ; Times: 1
+	Query: "egretta gularis" ; Times: 1
+
+
+End of report.
