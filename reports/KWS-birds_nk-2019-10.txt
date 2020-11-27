@@ -1,0 +1,74 @@
+Report for Institution Code KWS, Resource birds_nk
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 26
+Number of records retrieved in searches: 978
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: South Africa ; Times: 1
+	Country: Denmark ; Times: 4
+	Country: India ; Times: 4
+	Country: France ; Times: 2
+	Country: United States ; Times: 9
+	Country: Austria ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Kenya ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 1
+	Date: 2019-10-23 ; Times: 1
+	Date: 2019-10-27 ; Times: 1
+	Date: 2019-10-24 ; Times: 1
+	Date: 2019-10-03 ; Times: 1
+	Date: 2019-10-11 ; Times: 6
+	Date: 2019-10-30 ; Times: 2
+	Date: 2019-10-31 ; Times: 3
+	Date: 2019-10-07 ; Times: 2
+	Date: 2019-10-15 ; Times: 1
+	Date: 2019-10-14 ; Times: 2
+	Date: 2019-10-10 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "onocrotalus" ; Times: 1
+	Query: "genus:passer institutioncode:KWS" ; Times: 2
+	Query: "black headed gull" ; Times: 1
+	Query: "genus:ortygospiza class:aves year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:afer genus:ptilostomus" ; Times: 1
+	Query: "common quail" ; Times: 3
+	Query: "genus:ortygospiza class:aves year &lt;= 2019" ; Times: 1
+	Query: "Onychognathus year &gt; 1985 NOT CLO" ; Times: 2
+	Query: "Cichladusa guttata" ; Times: 2
+	Query: "corvus splendens" ; Times: 1
+	Query: "specificepithet:streptophora genus:scleroptila" ; Times: 2
+	Query: "specificepithet:phoenicoptera genus:pytilia class:aves" ; Times: 1
+	Query: "Onychognathus year &gt; 1985" ; Times: 1
+	Query: "Centropus senegalensis" ; Times: 1
+	Query: "genus:ortygospiza class:aves" ; Times: 4
+	Query: "psalidoprocne" ; Times: 1
+	Query: "Smithornis capensis year &gt; 1985" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 1308 download events in this period)
+Total number of records downloaded: 626
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-10 ; Times: 1
+	Date: 2019-10-11 ; Times: 1
+	Date: 2019-10-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:ortygospiza class:aves" ; Times: 1
+	Query: "Mourning dove" ; Times: 1
+	Query: "amethystina" ; Times: 1
+
+
+End of report.
