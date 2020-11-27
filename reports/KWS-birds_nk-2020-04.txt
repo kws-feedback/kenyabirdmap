@@ -1,0 +1,179 @@
+Report for Institution Code KWS, Resource birds_nk
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 458
+Number of records retrieved in searches: 56525
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 21
+	Country: India ; Times: 10
+	Country: France ; Times: 4
+	Country: United Kingdom ; Times: 420
+	Country: Germany ; Times: 2
+	Country: Belgium ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-19 ; Times: 1
+	Date: 2020-04-18 ; Times: 1
+	Date: 2020-04-07 ; Times: 152
+	Date: 2020-04-05 ; Times: 1
+	Date: 2020-04-11 ; Times: 1
+	Date: 2020-04-03 ; Times: 56
+	Date: 2020-04-17 ; Times: 16
+	Date: 2020-04-16 ; Times: 6
+	Date: 2020-04-15 ; Times: 1
+	Date: 2020-04-14 ; Times: 11
+	Date: 2020-04-22 ; Times: 2
+	Date: 2020-04-23 ; Times: 1
+	Date: 2020-04-20 ; Times: 1
+	Date: 2020-04-21 ; Times: 167
+	Date: 2020-04-26 ; Times: 1
+	Date: 2020-04-01 ; Times: 2
+	Date: 2020-04-25 ; Times: 2
+	Date: 2020-04-06 ; Times: 1
+	Date: 2020-04-08 ; Times: 34
+	Date: 2020-04-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Ploceus bicolor" ; Times: 8
+	Query: "Anas carolinensis" ; Times: 10
+	Query: "Apus apus" ; Times: 3
+	Query: "Bubulcus ibis" ; Times: 11
+	Query: "Cypsiurus parvus" ; Times: 3
+	Query: "Platalea leucorodia" ; Times: 1
+	Query: "Turdus helleri" ; Times: 9
+	Query: "specificepithet:arnotti" ; Times: 2
+	Query: "Cecropis daurica" ; Times: 8
+	Query: "Burhinus senegalensis" ; Times: 1
+	Query: "andropadus nigriceps" ; Times: 1
+	Query: "tufted duck" ; Times: 2
+	Query: "Psittacula krameri mappable:1" ; Times: 1
+	Query: "apalis porphyrolaema" ; Times: 1
+	Query: "Tachymarptis aequatorialis" ; Times: 7
+	Query: "Burhinus oedicnemus" ; Times: 1
+	Query: "Corvus splendens" ; Times: 9
+	Query: "great snipe" ; Times: 1
+	Query: "Motacilla cinerea" ; Times: 5
+	Query: "Numenius phaeopus" ; Times: 4
+	Query: "Accipiter nisus" ; Times: 7
+	Query: "Circaetus gallicus" ; Times: 2
+	Query: "Ardea alba" ; Times: 9
+	Query: "Tringa glareola" ; Times: 6
+	Query: "Sternula albifrons" ; Times: 1
+	Query: "Phalacrocorax carbo" ; Times: 4
+	Query: "Turtur tympanistria" ; Times: 6
+	Query: "Gyps fulvus" ; Times: 4
+	Query: "Apus barbatus" ; Times: 3
+	Query: "Criniger chloronotus" ; Times: 2
+	Query: "Gallinago nigripennis" ; Times: 6
+	Query: "Anhinga rufa" ; Times: 7
+	Query: "Quelea quelea" ; Times: 8
+	Query: "Apus caffer" ; Times: 3
+	Query: "Amaurornis flavirostra" ; Times: 2
+	Query: "Apus niansae" ; Times: 3
+	Query: "Terpsiphone viridis" ; Times: 4
+	Query: "Apalis flavida" ; Times: 4
+	Query: "Gallinago nigripennis nigripennis" ; Times: 1
+	Query: "specificepithet:dohertyi" ; Times: 1
+	Query: "procellariiformes year &gt;= 2018 year &lt;= 2020" ; Times: 1
+	Query: "Red-and-yellow barbet" ; Times: 2
+	Query: "Petronia petronia" ; Times: 8
+	Query: "Anomalospiza imberbis" ; Times: 8
+	Query: "Sylvia atricapilla" ; Times: 2
+	Query: "Sarkidiornis melanotos" ; Times: 11
+	Query: "Aythya fuligula" ; Times: 6
+	Query: "Acrocephalus palustris" ; Times: 1
+	Query: "Butorides striata" ; Times: 9
+	Query: "Campethera nubica" ; Times: 1
+	Query: "Ceyx pictus" ; Times: 4
+	Query: "Eurillas virens" ; Times: 4
+	Query: "Apus horus" ; Times: 3
+	Query: "Actitis hypoleucos" ; Times: 6
+	Query: "Cisticola cantans" ; Times: 7
+	Query: "pinarochroa" ; Times: 1
+	Query: "Ciconia ciconia" ; Times: 9
+	Query: "Ardea goliath" ; Times: 1
+	Query: "Ardea purpurea" ; Times: 9
+	Query: "Elminia longicauda" ; Times: 4
+	Query: "Motacilla alba" ; Times: 5
+	Query: "Ixobrychus minutus" ; Times: 2
+	Query: "Emberiza flaviventris" ; Times: 3
+	Query: "Turdus pelios" ; Times: 9
+	Query: "Sporopipes frontalis" ; Times: 8
+	Query: "Tringa erythropus" ; Times: 6
+	Query: "Sarothrura" ; Times: 1
+	Query: "Prinia bairdii" ; Times: 8
+	Query: "Phylloscopus sibilatrix" ; Times: 7
+	Query: "gyps" ; Times: 1
+	Query: "Pycnonotus barbatus" ; Times: 4
+	Query: "Sula dactylatra" ; Times: 3
+	Query: "Apus affinis" ; Times: 3
+	Query: "Burhinus vermiculatus" ; Times: 2
+	Query: "Chroicocephalus ridibundus" ; Times: 6
+	Query: "Ciconia nigra" ; Times: 2
+	Query: "Thalassarche melanophris" ; Times: 1
+	Query: "Baeopogon indicator" ; Times: 4
+	Query: "Oenanthe isabellina" ; Times: 9
+	Query: "Phylloscopus collybita" ; Times: 4
+	Query: "waxbill" ; Times: 1
+	Query: "Buteo rufinus" ; Times: 4
+	Query: "Ficedula albicollis" ; Times: 9
+	Query: "Burhinus capensis" ; Times: 1
+	Query: "Gracupica nigricollis" ; Times: 7
+	Query: "dicrurus adsimilis" ; Times: 1
+	Query: "Ploceus ocularis" ; Times: 8
+	Query: "Buteo augur" ; Times: 4
+	Query: "procellariiformes year &gt;= 2017 year &lt;= 2020" ; Times: 1
+	Query: "Rallus caerulescens" ; Times: 1
+	Query: "Sarothrura affinis" ; Times: 1
+	Query: "Amblyospiza albifrons" ; Times: 8
+	Query: "Ardea cinerea" ; Times: 9
+	Query: "Aythya ferina" ; Times: 11
+	Query: "Buteogallus urubitinga" ; Times: 4
+	Query: "Anhinga anhinga" ; Times: 2
+	Query: "Porphyrio alleni" ; Times: 3
+	Query: "Bycanistes brevis" ; Times: 4
+	Query: "Apus unicolor" ; Times: 3
+	Query: "viridis 4086" ; Times: 1
+	Query: "Prinia subflava" ; Times: 6
+	Query: "Eurillas latirostris" ; Times: 4
+	Query: "Psalidoprocne pristoptera" ; Times: 7
+	Query: "Recurvirostra avosetta" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 1171 download events in this period)
+Total number of records downloaded: 206
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: France ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-17 ; Times: 4
+	Date: 2020-04-16 ; Times: 3
+	Date: 2020-04-15 ; Times: 1
+	Date: 2020-04-14 ; Times: 1
+	Date: 2020-04-06 ; Times: 1
+	Date: 2020-04-07 ; Times: 1
+	Date: 2020-04-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Burhinus vermiculatus" ; Times: 1
+	Query: "Burhinus senegalensis" ; Times: 1
+	Query: "Sarothrura affinis" ; Times: 1
+	Query: "great snipe" ; Times: 1
+	Query: "Sarothrura" ; Times: 1
+	Query: "specificepithet:dohertyi" ; Times: 1
+	Query: "specificepithet:arnotti" ; Times: 2
+	Query: "Gallinago media" ; Times: 1
+	Query: "Rallus caerulescens" ; Times: 1
+	Query: "Gallinago gallinago" ; Times: 1
+	Query: "Burhinus capensis" ; Times: 1
+
+
+End of report.
