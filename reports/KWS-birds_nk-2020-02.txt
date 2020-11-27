@@ -1,0 +1,69 @@
+Report for Institution Code KWS, Resource birds_nk
+Usage stats for February 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 38
+Number of records retrieved in searches: 749
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 18
+	Country: United States ; Times: 9
+	Country: Germany ; Times: 8
+	Country: Canada ; Times: 2
+	Country: Gambia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-13 ; Times: 4
+	Date: 2020-02-20 ; Times: 10
+	Date: 2020-02-14 ; Times: 6
+	Date: 2020-02-23 ; Times: 1
+	Date: 2020-02-19 ; Times: 2
+	Date: 2020-02-18 ; Times: 1
+	Date: 2020-02-21 ; Times: 14
+
+List of queries that retrieved data from the resource: 
+	Query: "Podiceps cristatus" ; Times: 4
+	Query: "casmerodius albus" ; Times: 1
+	Query: "Illadopsis albipectus" ; Times: 2
+	Query: "specificepithet:albicauda genus:mirafra" ; Times: 1
+	Query: "Cercomela scotocerca" ; Times: 3
+	Query: "riparia paludicola" ; Times: 8
+	Query: "phoeniconaias minor" ; Times: 2
+	Query: "Fraseria lendu" ; Times: 1
+	Query: "Melocichla mentalis" ; Times: 1
+	Query: "Sylvietta isabellina" ; Times: 2
+	Query: "specificepithet:chariessa genus:apalis" ; Times: 1
+	Query: "Illadopsis rufipennis" ; Times: 3
+	Query: "illadopsis fulvescens" ; Times: 2
+	Query: "Egretta gularis" ; Times: 1
+	Query: "Campephaga petiti" ; Times: 1
+	Query: "Ortygospiza atricollis" ; Times: 2
+	Query: "Illadopsis pyrrhoptera" ; Times: 2
+	Query: "puffinus bailloni" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 1023 download events in this period)
+Total number of records downloaded: 277
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-08 ; Times: 1
+	Date: 2020-02-20 ; Times: 1
+	Date: 2020-02-14 ; Times: 1
+	Date: 2020-02-05 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Podiceps cristatus" ; Times: 1
+	Query: "Tyto alba" ; Times: 1
+	Query: "Monachus" ; Times: 1
+	Query: "riparia paludicola" ; Times: 1
+
+
+End of report.
