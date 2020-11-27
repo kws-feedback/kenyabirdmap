@@ -1,0 +1,56 @@
+Report for Institution Code KWS, Resource birds_nk
+Usage stats for May 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 13
+Number of records retrieved in searches: 700
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 3
+	Country: United States ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-24 ; Times: 2
+	Date: 2020-05-23 ; Times: 3
+	Date: 2020-05-28 ; Times: 2
+	Date: 2020-05-11 ; Times: 1
+	Date: 2020-05-12 ; Times: 3
+	Date: 2020-05-13 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:buccanodon class:aves year &gt;= 1985" ; Times: 2
+	Query: "zosterops poliogastrus" ; Times: 1
+	Query: "Yellow-billed duck" ; Times: 2
+	Query: "Netta erythrophthalma" ; Times: 1
+	Query: "Buccanodon duchaillui" ; Times: 2
+	Query: "southern pochard" ; Times: 1
+	Query: "institutioncode:KWS distance(location,geopoint(-1.0224213427265785,34.905178270758995))&lt;100000" ; Times: 1
+	Query: "procellariiformes year &gt;= 2015 year &lt;= 2020" ; Times: 1
+	Query: "Sarothrura" ; Times: 1
+	Query: "institutioncode:KWS distance(location,geopoint(-1.0685269715976973,35.29827384412829))&lt;100000" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 1106 download events in this period)
+Total number of records downloaded: 57773
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: United Kingdom ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-24 ; Times: 2
+	Date: 2020-05-13 ; Times: 1
+	Date: 2020-05-23 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Netta erythrophthalma" ; Times: 1
+	Query: "institutioncode:KWS distance(location,geopoint(-1.0685269715976973,35.29827384412829))&lt;214941" ; Times: 1
+	Query: "Buccanodon duchaillui" ; Times: 1
+	Query: "Sarothrura" ; Times: 1
+
+
+End of report.
