@@ -1,0 +1,75 @@
+Report for Institution Code KWS, Resource birds_nk
+Usage stats for January 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 30
+Number of records retrieved in searches: 692
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 4
+	Country: United States ; Times: 13
+	Country: Unknown ; Times: 6
+	Country: India ; Times: 5
+	Country: United Kingdom ; Times: 1
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-03 ; Times: 1
+	Date: 2020-01-08 ; Times: 1
+	Date: 2020-01-06 ; Times: 2
+	Date: 2020-01-21 ; Times: 3
+	Date: 2020-01-20 ; Times: 8
+	Date: 2020-01-16 ; Times: 1
+	Date: 2020-01-22 ; Times: 1
+	Date: 2020-01-25 ; Times: 1
+	Date: 2020-01-24 ; Times: 10
+	Date: 2020-01-13 ; Times: 1
+	Date: 2020-01-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Ciconia episcopus" ; Times: 1
+	Query: "Burhinus vermiculatus" ; Times: 1
+	Query: "Garganey" ; Times: 2
+	Query: "specificepithet:albicauda genus:mirafra" ; Times: 2
+	Query: "holochlorus" ; Times: 1
+	Query: "fulvous whistling duck" ; Times: 1
+	Query: "blackcap" ; Times: 1
+	Query: "Burhinus senegalensis" ; Times: 2
+	Query: "Sarkidiornis" ; Times: 1
+	Query: "Burhinus oedicnemus" ; Times: 2
+	Query: "specificepithet:cantillans genus:mirafra" ; Times: 1
+	Query: "specificepithet:pulpa genus:mirafra" ; Times: 1
+	Query: "Common pochard" ; Times: 1
+	Query: "Ciconia abdimii" ; Times: 1
+	Query: "Streptopelia turtur" ; Times: 1
+	Query: "Tufted duck" ; Times: 1
+	Query: "Merops persicus" ; Times: 3
+	Query: "Mycteria ibis" ; Times: 3
+	Query: "Burhinus capensis" ; Times: 1
+	Query: "streptopelia turtur" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 1584 download events in this period)
+Total number of records downloaded: 392
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-22 ; Times: 1
+	Date: 2020-01-06 ; Times: 1
+	Date: 2020-01-24 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Ciconia episcopus" ; Times: 1
+	Query: "specificepithet:canorus" ; Times: 1
+	Query: "Mycteria ibis" ; Times: 1
+	Query: "Sturnus" ; Times: 1
+	Query: "Burhinus oedicnemus" ; Times: 1
+
+
+End of report.
