@@ -1,0 +1,82 @@
+Report for Institution Code KWS, Resource birds_nk
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 43
+Number of records retrieved in searches: 1041
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 30
+	Country: Unknown ; Times: 4
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 7
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-08 ; Times: 2
+	Date: 2020-06-09 ; Times: 2
+	Date: 2020-06-06 ; Times: 15
+	Date: 2020-06-07 ; Times: 1
+	Date: 2020-06-05 ; Times: 4
+	Date: 2020-06-02 ; Times: 4
+	Date: 2020-06-03 ; Times: 1
+	Date: 2020-06-10 ; Times: 9
+	Date: 2020-06-11 ; Times: 3
+	Date: 2020-06-01 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Anas carolinensis" ; Times: 6
+	Query: "schoutedenapus" ; Times: 1
+	Query: "specificepithet:jacksoni order:galliformes" ; Times: 2
+	Query: "vanellus crassirostris" ; Times: 2
+	Query: "order:aves" ; Times: 1
+	Query: "Apus unicolor" ; Times: 1
+	Query: "Apus niansae" ; Times: 1
+	Query: "specificepithet:pucherani order:galliformes" ; Times: 1
+	Query: "acrocephalus arundinaceus" ; Times: 2
+	Query: "Bubo coromandus" ; Times: 1
+	Query: "cinnyris mediocris" ; Times: 2
+	Query: "vanellus lugubris" ; Times: 2
+	Query: "Spotted owl" ; Times: 1
+	Query: "Neafrapus boehmi" ; Times: 1
+	Query: "specificepithet:petrosus order:galliformes" ; Times: 1
+	Query: "Yellow-billed Duck" ; Times: 2
+	Query: "spotted owl" ; Times: 1
+	Query: "specificepithet:meleagris order:galliformes" ; Times: 1
+	Query: "specificepithet:mediocris genus:cinnyris" ; Times: 1
+	Query: "batis minor" ; Times: 1
+	Query: "African Black Duck" ; Times: 1
+	Query: "specificepithet:streptophora order:galliformes" ; Times: 2
+	Query: "specificepithet:streptophora genus:Scleroptila" ; Times: 8
+	Query: "specificepithet:petrosus genus:Ptilopachus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 474 download events in this period)
+Total number of records downloaded: 411
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Brazil ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-06 ; Times: 2
+	Date: 2020-06-07 ; Times: 1
+	Date: 2020-06-10 ; Times: 5
+	Date: 2020-06-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:pucherani order:galliformes" ; Times: 1
+	Query: "specificepithet:jacksoni order:galliformes" ; Times: 2
+	Query: "Arenaria interpres" ; Times: 1
+	Query: "Pandion haliaetus" ; Times: 1
+	Query: "specificepithet:rustica genus:Hirundo" ; Times: 1
+	Query: "specificepithet:streptophora genus:Scleroptila" ; Times: 1
+	Query: "specificepithet:interpres genus:Arenaria" ; Times: 1
+	Query: "specificepithet:petrosus genus:Ptilopachus" ; Times: 1
+
+
+End of report.
