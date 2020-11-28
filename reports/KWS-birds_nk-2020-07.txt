@@ -1,0 +1,75 @@
+Report for Institution Code KWS, Resource birds_nk
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 38
+Number of records retrieved in searches: 554
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 33
+	Country: Unknown ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Denmark ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-21 ; Times: 3
+	Date: 2020-07-20 ; Times: 1
+	Date: 2020-07-26 ; Times: 2
+	Date: 2020-07-01 ; Times: 1
+	Date: 2020-07-03 ; Times: 1
+	Date: 2020-07-02 ; Times: 8
+	Date: 2020-07-30 ; Times: 2
+	Date: 2020-07-17 ; Times: 2
+	Date: 2020-07-15 ; Times: 1
+	Date: 2020-07-29 ; Times: 17
+
+List of queries that retrieved data from the resource: 
+	Query: "Tricholaema hirsuta" ; Times: 1
+	Query: "Psittacus erithacus" ; Times: 1
+	Query: "elminia longicauda" ; Times: 1
+	Query: "Vanellus tectus" ; Times: 4
+	Query: "specificepithet:jacksoni order:galliformes" ; Times: 1
+	Query: "specificepithet:streptophora order:galliformes" ; Times: 1
+	Query: "Cursorius somalensis" ; Times: 2
+	Query: "elminia nigromitrata" ; Times: 1
+	Query: "Rhinoptilus cinctus" ; Times: 3
+	Query: "Sternula saundersi" ; Times: 1
+	Query: "corvus splendens" ; Times: 1
+	Query: "Cursorius temminckii" ; Times: 2
+	Query: "schoutedenapus" ; Times: 1
+	Query: "specificepithet:streptophora genus:Scleroptila" ; Times: 6
+	Query: "Thalasseus bergii" ; Times: 1
+	Query: "specificepithet:caroli genus:anthoscopus" ; Times: 1
+	Query: "Anomalospiza" ; Times: 1
+	Query: "Glareola ocularis" ; Times: 2
+	Query: "Rynchops flavirostris" ; Times: 3
+	Query: "neafrapus boehmi" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 940 download events in this period)
+Total number of records downloaded: 2465
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 1
+	Country: Sweden ; Times: 1
+	Country: Canada ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-21 ; Times: 1
+	Date: 2020-07-02 ; Times: 1
+	Date: 2020-07-27 ; Times: 1
+	Date: 2020-07-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "estrilda astrild" ; Times: 1
+	Query: "specificepithet:jacksoni order:galliformes" ; Times: 1
+	Query: "genus:Corvus year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "bat year &gt;= 1899 year &lt;= 2020 month &gt;= 6 month &lt;= 8" ; Times: 1
+
+
+End of report.
