@@ -1,0 +1,118 @@
+Report for Institution Code KWS, Resource birds_nk
+Usage stats for October 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 111
+Number of records retrieved in searches: 9214
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 59
+	Country: Unknown ; Times: 10
+	Country: France ; Times: 5
+	Country: United Kingdom ; Times: 20
+	Country: Austria ; Times: 1
+	Country: Germany ; Times: 8
+	Country: Switzerland ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-09 ; Times: 1
+	Date: 2020-10-22 ; Times: 2
+	Date: 2020-10-20 ; Times: 6
+	Date: 2020-10-27 ; Times: 11
+	Date: 2020-10-26 ; Times: 6
+	Date: 2020-10-24 ; Times: 1
+	Date: 2020-10-01 ; Times: 19
+	Date: 2020-10-13 ; Times: 30
+	Date: 2020-10-02 ; Times: 19
+	Date: 2020-10-16 ; Times: 3
+	Date: 2020-10-17 ; Times: 1
+	Date: 2020-10-07 ; Times: 2
+	Date: 2020-10-06 ; Times: 1
+	Date: 2020-10-12 ; Times: 1
+	Date: 2020-10-14 ; Times: 1
+	Date: 2020-10-28 ; Times: 1
+	Date: 2020-10-15 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Anas carolinensis" ; Times: 1
+	Query: "Halcyon albiventris" ; Times: 1
+	Query: "Cypsiurus parvus" ; Times: 1
+	Query: "Emberiza tahapisi" ; Times: 1
+	Query: "Sporopipes squamifrons" ; Times: 1
+	Query: "RHAPHIDURA SABINI" ; Times: 3
+	Query: "Lagonosticta senegala" ; Times: 2
+	Query: "scientificname:Corvus albus" ; Times: 6
+	Query: "Thalasseus bergii" ; Times: 1
+	Query: "Buphagus" ; Times: 3
+	Query: "Apalis thoracica" ; Times: 2
+	Query: "institutioncode:kws Poicephalus" ; Times: 2
+	Query: "Hirundo smithii" ; Times: 1
+	Query: "Turdus pelios" ; Times: 1
+	Query: "specificepithet:caroli genus:anthoscopus" ; Times: 1
+	Query: "franciscanus" ; Times: 1
+	Query: "Macheiramphus alcinus" ; Times: 1
+	Query: "Pycnonotus tricolor" ; Times: 2
+	Query: "apus niansae" ; Times: 4
+	Query: "Sterna dougallii" ; Times: 1
+	Query: "Trachyphonus vaillantii" ; Times: 1
+	Query: "genus:myrmecocichla" ; Times: 1
+	Query: "Cisticola chiniana" ; Times: 2
+	Query: "institutioncode:kws Agapornis" ; Times: 5
+	Query: "Tchagra australis" ; Times: 1
+	Query: "scientificname:Aix sponsa" ; Times: 8
+	Query: "Egretta garzetta" ; Times: 1
+	Query: "Acrocephalus baeticatus" ; Times: 1
+	Query: "rhaphidura sabini" ; Times: 1
+	Query: "Macheiramphus" ; Times: 1
+	Query: "Passer diffusus" ; Times: 1
+	Query: "gbifdatasetid:d1e8a7af-097a-4ca8-aa91-62d3ff834711" ; Times: 1
+	Query: "Porphyrio porphyrio" ; Times: 1
+	Query: "Pytilia melba" ; Times: 1
+	Query: "ploceus melanogaster" ; Times: 5
+	Query: "specificepithet:albifrons genus:Sternula" ; Times: 1
+	Query: "Batis molitor" ; Times: 2
+	Query: "Lagonosticta rubricata" ; Times: 6
+	Query: "genus:Rynchops" ; Times: 1
+	Query: "Ispidina picta" ; Times: 1
+	Query: "apus unicolor" ; Times: 2
+	Query: "scientificname:Threskiornis aethiopicus" ; Times: 1
+	Query: "Apus affinis" ; Times: 2
+	Query: "scientificname:Accipiter nisus" ; Times: 4
+	Query: "Porphyrio alleni" ; Times: 1
+	Query: "Chroicocephalus ridibundus" ; Times: 2
+	Query: "Thalasseus sandvicensis" ; Times: 1
+	Query: "snake kenya" ; Times: 7
+	Query: "Circaetus gallicus" ; Times: 1
+	Query: "Cinnyris mariquensis" ; Times: 2
+	Query: "telacanthura" ; Times: 2
+	Query: "Fregetta" ; Times: 1
+	Query: "Phalacrocorax carbo" ; Times: 1
+	Query: "Turdus helleri" ; Times: 1
+	Query: "Turtur tympanistria" ; Times: 1
+	Query: "Ciconia ciconia" ; Times: 1
+	Query: "Recurvirostra avosetta" ; Times: 1
+	Query: "Mirafra pulpa" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 1521 download events in this period)
+Total number of records downloaded: 425
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 1
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-13 ; Times: 1
+	Date: 2020-10-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Egretta garzetta" ; Times: 1
+	Query: "genus:myrmecocichla" ; Times: 1
+
+
+End of report.
