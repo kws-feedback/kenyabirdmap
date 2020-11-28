@@ -1,0 +1,102 @@
+Report for Institution Code KWS, Resource birds_nk
+Usage stats for September 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 38
+Number of records retrieved in searches: 1123
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 27
+	Country: Denmark ; Times: 7
+	Country: United Kingdom ; Times: 2
+	Country: Canada ; Times: 1
+	Country: South Africa ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-15 ; Times: 3
+	Date: 2020-09-16 ; Times: 2
+	Date: 2020-09-25 ; Times: 15
+	Date: 2020-09-24 ; Times: 4
+	Date: 2020-09-29 ; Times: 3
+	Date: 2020-09-23 ; Times: 3
+	Date: 2020-09-02 ; Times: 3
+	Date: 2020-09-01 ; Times: 1
+	Date: 2020-09-07 ; Times: 1
+	Date: 2020-09-04 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "schoutedenapus" ; Times: 1
+	Query: "Buphagidae" ; Times: 3
+	Query: "SCHOUTEDENAPUS MYOPTILUS" ; Times: 2
+	Query: "Cypsiurus parvus" ; Times: 1
+	Query: "Clamator jacobinus jacobinus" ; Times: 1
+	Query: "year &gt; 1985 BAEOPOGON NOT CLO" ; Times: 1
+	Query: "Schoutedenapus myoptilus" ; Times: 1
+	Query: "year &gt; 1985 BAEOPOGON" ; Times: 1
+	Query: "APUS barbatus" ; Times: 1
+	Query: "turnix sylvaticus" ; Times: 1
+	Query: "apalis thoracica" ; Times: 1
+	Query: "Neafrapus boehmi" ; Times: 1
+	Query: "Telacanthura ussheri" ; Times: 1
+	Query: "APUS affinis" ; Times: 1
+	Query: "Sylvietta leucophrys" ; Times: 1
+	Query: "RHAPHIDURA SABINI" ; Times: 1
+	Query: "common moorhen" ; Times: 2
+	Query: "Tachymarptis aequatorialis" ; Times: 1
+	Query: "Cursorius year &gt; 1990 NOT CLO" ; Times: 1
+	Query: "telacanthura" ; Times: 1
+	Query: "procellariiformes year &gt;= 2015 year &lt;= 2020" ; Times: 1
+	Query: "APUS horus" ; Times: 1
+	Query: "EMPIDORNIS year &gt; 1990" ; Times: 1
+	Query: "Tachymarptis melba" ; Times: 1
+	Query: "Rhaphidura sabini" ; Times: 2
+	Query: "Accipiter badius badius" ; Times: 2
+	Query: "APUS caffer" ; Times: 1
+	Query: "APUS unicolor" ; Times: 1
+	Query: "APUS niansae" ; Times: 1
+	Query: "year &gt; 1985 ANOMALOSPIZA" ; Times: 1
+	Query: "Histurgops year &gt; 1990 NOT CLO" ; Times: 1
+	Query: "procellariiformes year &gt;= 2018 year &lt;= 2020" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 19 (out of 976 download events in this period)
+Total number of records downloaded: 4709
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 19
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-25 ; Times: 14
+	Date: 2020-09-26 ; Times: 1
+	Date: 2020-09-28 ; Times: 1
+	Date: 2020-09-09 ; Times: 1
+	Date: 2020-09-02 ; Times: 1
+	Date: 2020-09-04 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Tachymarptis melba" ; Times: 1
+	Query: "APUS affinis" ; Times: 1
+	Query: "APUS apus" ; Times: 1
+	Query: "Schoutedenapus myoptilus" ; Times: 1
+	Query: "Cypsiurus parvus" ; Times: 1
+	Query: "order:Galliformes" ; Times: 1
+	Query: "APUS caffer" ; Times: 1
+	Query: "Tachymarptis aequatorialis" ; Times: 1
+	Query: "ostrich" ; Times: 1
+	Query: "APUS unicolor" ; Times: 1
+	Query: "APUS niansae" ; Times: 1
+	Query: "Neafrapus boehmi" ; Times: 1
+	Query: "hirundo rustica" ; Times: 1
+	Query: "APUS horus" ; Times: 1
+	Query: "Passer domesticus" ; Times: 1
+	Query: "APUS barbatus" ; Times: 1
+	Query: "Telacanthura ussheri" ; Times: 1
+	Query: "Rhaphidura sabini" ; Times: 1
+	Query: "sturnus vulgaris" ; Times: 1
+
+
+End of report.
