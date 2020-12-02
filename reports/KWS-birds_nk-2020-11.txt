@@ -1,0 +1,109 @@
+Report for Institution Code KWS, Resource birds_nk
+Usage stats for November 2020, generated on 2020/12/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 97
+Number of records retrieved in searches: 9643
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United Kingdom ; Times: 50
+	Country: Netherlands ; Times: 3
+	Country: Denmark ; Times: 2
+	Country: France ; Times: 1
+	Country: United States ; Times: 22
+	Country: Germany ; Times: 3
+	Country: Switzerland ; Times: 12
+	Country: Kenya ; Times: 1
+	Country: Cyprus ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-20 ; Times: 7
+	Date: 2020-11-23 ; Times: 2
+	Date: 2020-11-19 ; Times: 5
+	Date: 2020-11-25 ; Times: 1
+	Date: 2020-11-26 ; Times: 3
+	Date: 2020-11-09 ; Times: 13
+	Date: 2020-11-06 ; Times: 6
+	Date: 2020-11-02 ; Times: 45
+	Date: 2020-11-04 ; Times: 4
+	Date: 2020-11-05 ; Times: 1
+	Date: 2020-11-11 ; Times: 1
+	Date: 2020-11-03 ; Times: 1
+	Date: 2020-11-13 ; Times: 3
+	Date: 2020-11-10 ; Times: 1
+	Date: 2020-11-12 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Pterocles namaqua" ; Times: 2
+	Query: "(Oenanthe hispanica) year &gt;= 1950" ; Times: 1
+	Query: "Acrocephalus arundinaceus" ; Times: 1
+	Query: "Anhinga rufa" ; Times: 1
+	Query: "Apus caffer" ; Times: 1
+	Query: "Amaurornis flavirostra" ; Times: 2
+	Query: "Numenius phaeopus" ; Times: 2
+	Query: "Apus unicolor" ; Times: 6
+	Query: "Circus ranivorus" ; Times: 1
+	Query: "Actophilornis africanus" ; Times: 2
+	Query: "apus horus" ; Times: 2
+	Query: "scientificname:Merops apiaster" ; Times: 1
+	Query: "Cecropis daurica" ; Times: 1
+	Query: "Cypsiurus parvus" ; Times: 1
+	Query: "ephippiorhynchus senegalensis" ; Times: 3
+	Query: "Calandrella cinerea" ; Times: 1
+	Query: "apus unicolor" ; Times: 2
+	Query: "Circus pygargus" ; Times: 3
+	Query: "Sylvia atricapilla" ; Times: 2
+	Query: "apus niansae" ; Times: 7
+	Query: "(Oenanthe pleschanka) year &gt;= 1950" ; Times: 1
+	Query: "Apus affinis" ; Times: 1
+	Query: "Oenanthe pleschanka" ; Times: 9
+	Query: "Phylloscopus sibilatrix" ; Times: 1
+	Query: "Falco naumanni" ; Times: 2
+	Query: "Tachymarptis aequatorialis" ; Times: 1
+	Query: "Nannococcyx psix" ; Times: 1
+	Query: "Turtur chalcospilos" ; Times: 2
+	Query: "Corvus splendens" ; Times: 1
+	Query: "Pied wheatear" ; Times: 1
+	Query: "Pycnonotus barbatus" ; Times: 1
+	Query: "Falco tinnunculus" ; Times: 2
+	Query: "Delichon urbicum" ; Times: 1
+	Query: "Pied Wheatear" ; Times: 1
+	Query: "onychoprion fuscatus" ; Times: 1
+	Query: "Red-billed quelea" ; Times: 1
+	Query: "Apus horus" ; Times: 1
+	Query: "Accipiter nisus" ; Times: 2
+	Query: "specificepithet:scops genus:Otus" ; Times: 1
+	Query: "Apus barbatus" ; Times: 1
+	Query: "Acrocephalus scirpaceus" ; Times: 1
+	Query: "Cisticola cantans" ; Times: 1
+	Query: "Ficedula albicollis" ; Times: 1
+	Query: "Rhaphidura sabini" ; Times: 1
+	Query: "Prinia subflava" ; Times: 1
+	Query: "apus affinis" ; Times: 5
+	Query: "Black-eared Wheatear" ; Times: 1
+	Query: "Oenanthe isabellina" ; Times: 1
+	Query: "Apus niansae" ; Times: 1
+	Query: "Bradypterus baboecala" ; Times: 2
+	Query: "Numida meleagris" ; Times: 2
+	Query: "Bubulcus ibis" ; Times: 2
+	Query: "Psalidoprocne pristoptera" ; Times: 1
+	Query: "Lonchura cucullata" ; Times: 2
+	Query: "Gracupica nigricollis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 842 download events in this period)
+Total number of records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+
+End of report.
