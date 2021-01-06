@@ -1,0 +1,119 @@
+Report for Institution Code KWS, Resource birds_nk
+Usage stats for December 2020, generated on 2021/01/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 72
+Number of records retrieved in searches: 6578
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Turkey ; Times: 4
+	Country: United Kingdom ; Times: 40
+	Country: Netherlands ; Times: 1
+	Country: Unknown ; Times: 18
+	Country: India ; Times: 1
+	Country: United States ; Times: 4
+	Country: Germany ; Times: 2
+	Country: Spain ; Times: 1
+	Country: Bulgaria ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-25 ; Times: 1
+	Date: 2020-12-26 ; Times: 1
+	Date: 2020-12-20 ; Times: 12
+	Date: 2020-12-22 ; Times: 5
+	Date: 2020-12-03 ; Times: 5
+	Date: 2020-12-06 ; Times: 5
+	Date: 2020-12-18 ; Times: 1
+	Date: 2020-12-09 ; Times: 2
+	Date: 2020-12-08 ; Times: 1
+	Date: 2020-12-07 ; Times: 5
+	Date: 2020-12-11 ; Times: 15
+	Date: 2020-12-04 ; Times: 16
+	Date: 2020-12-14 ; Times: 2
+	Date: 2020-12-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Anas carolinensis" ; Times: 1
+	Query: "mappable:1 scientificname:Dendrocygna viduata" ; Times: 1
+	Query: "Eminia lepida" ; Times: 1
+	Query: "Eurillas virens" ; Times: 1
+	Query: "Cypsiurus parvus" ; Times: 1
+	Query: "aves glareola pratincola" ; Times: 1
+	Query: "Pternistis" ; Times: 1
+	Query: "specificepithet:lamelligerus genus:anastomus" ; Times: 1
+	Query: "Anthreptes orientalis" ; Times: 1
+	Query: "Anthus richardi" ; Times: 1
+	Query: "Apus unicolor" ; Times: 2
+	Query: "Apus niansae" ; Times: 2
+	Query: "Turdus pelios" ; Times: 2
+	Query: "gyps fulvus" ; Times: 2
+	Query: "mirafra pulpa" ; Times: 1
+	Query: "Apalis flavida" ; Times: 1
+	Query: "striolated bunting" ; Times: 1
+	Query: "Apus apus" ; Times: 1
+	Query: "Caprimulgus europaeus" ; Times: 3
+	Query: "francolinus 1943" ; Times: 1
+	Query: "Calandrella cinerea" ; Times: 1
+	Query: "Pluvianus aegyptius" ; Times: 1
+	Query: "Falco fasciinucha" ; Times: 4
+	Query: "mappable:1 scientificname:Netta erythrophthalma" ; Times: 1
+	Query: "Clamator glandarius" ; Times: 1
+	Query: "mappable:1 scientificname:Mesembrinibis cayennensis" ; Times: 1
+	Query: "Phylloscopus sibilatrix" ; Times: 2
+	Query: "mappable:1 scientificname:Arenaria interpres" ; Times: 2
+	Query: "caprimulgus inornatus" ; Times: 1
+	Query: "Tachymarptis aequatorialis" ; Times: 1
+	Query: "Turdus helleri" ; Times: 2
+	Query: "Corvus splendens" ; Times: 1
+	Query: "Butorides striata" ; Times: 1
+	Query: "Pycnonotus barbatus" ; Times: 1
+	Query: "mappable:1 scientificname:Dendrocygna bicolor" ; Times: 1
+	Query: "Apus barbatus" ; Times: 2
+	Query: "Apus caffer" ; Times: 1
+	Query: "mappable:1 scientificname:Anhinga anhinga" ; Times: 4
+	Query: "mappable:1 scientificname:Anous stolidus" ; Times: 1
+	Query: "Apus affinis" ; Times: 1
+	Query: "Porphyrio alleni" ; Times: 1
+	Query: "Cisticola cantans" ; Times: 1
+	Query: "mappable:1 scientificname:Bubulcus ibis" ; Times: 2
+	Query: "Prinia subflava" ; Times: 1
+	Query: "Baeopogon indicator" ; Times: 1
+	Query: "mappable:1 scientificname:Chamaeza campanisona" ; Times: 1
+	Query: "mappable:1 scientificname:Leptotila verreauxi" ; Times: 1
+	Query: "mappable:1 scientificname:Ardea alba" ; Times: 1
+	Query: "specificepithet:castanops genus:Ploceus" ; Times: 1
+	Query: "mappable:1 scientificname:Buteogallus urubitinga" ; Times: 1
+	Query: "Apus horus" ; Times: 1
+	Query: "mappable:1 scientificname:Egretta thula" ; Times: 1
+	Query: "Psalidoprocne pristoptera" ; Times: 2
+	Query: "Gracupica nigricollis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 705 download events in this period)
+Total number of records downloaded: 92034
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: India ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-06 ; Times: 1
+	Date: 2020-12-12 ; Times: 3
+	Date: 2020-12-09 ; Times: 1
+	Date: 2020-12-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "basisofrecord:HumanObservation" ; Times: 1
+	Query: "anas platyrhynchos" ; Times: 1
+	Query: "genus:Anas" ; Times: 1
+	Query: "mallard" ; Times: 1
+	Query: "family:anatidae" ; Times: 1
+	Query: "Woodpecker" ; Times: 1
+
+
+End of report.
